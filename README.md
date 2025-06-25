@@ -1,6 +1,6 @@
 # Ahorcado
 
-# Un juego de **Ahorcado por consola**, donde el jugador puede elegir el idioma (español o inglés) y adivinar una palabra aleatoria real obtenida desde la API de Datamuse.
+Un juego de **Ahorcado por consola**, donde el jugador puede elegir el idioma (español o inglés) y adivinar una palabra aleatoria real obtenida desde la API de Datamuse.
 
 ---
 
